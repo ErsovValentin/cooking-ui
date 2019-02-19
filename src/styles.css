@@ -1,0 +1,13 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+.cursor {
+  cursor: pointer;
+}
+
+.text-grey {
+  color: #9E9E9E;
+}
+
+img {
+  width: 100%;
+}
